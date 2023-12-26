@@ -1,0 +1,96 @@
+{
+    "quesions": [
+
+      {
+
+        "id": 1,
+
+        "quesion": "What is the correct command to create a new React project?",
+
+        "answer-1": "npx create-react-app",
+
+        "answer-2": "npm create-react-app",
+
+        "answer-3": "npm create-react-app myReactApp",
+
+        "answer-4": "npx create-react-app myReactApp",
+
+        "right-anwser": "npx create-react-app myReactApp"
+
+      },
+
+      {
+
+        "id": 2,
+
+        "quesion": "What does myReactApp refer to in the following command? 'npx create-react-app myReactApp'",
+
+        "answer-1": "The type of app to create",
+
+        "answer-2": "The directory to create the new app in",
+
+        "answer-3": "A reference to an existing app",
+
+        "answer-4": "The name you want to use for the new app",
+
+        "right-anwser": "The name you want to use for the new app"
+
+      },
+
+      {
+
+        "id": 3,
+
+        "quesion": "What command is used to start the React local development server?",
+
+        "answer-1": "npm start",
+
+        "answer-2": "npm server",
+
+        "answer-3": "npm build",
+
+        "answer-4": "npm run build",
+
+        "right-anwser": "npm start"
+
+      },
+
+      {
+
+        "id": 4,
+
+        "quesion": "What is the default local host port that a React development server uses?",
+
+        "answer-1": "5000",
+
+        "answer-2": "8080",
+
+        "answer-3": "3000",
+
+        "answer-4": "3500",
+
+        "right-anwser": "3000"
+
+      },
+
+      {
+
+        "id": 5,
+
+        "quesion": "Which keyword creates a constant in JavaScript?",
+
+        "answer-1": "const",
+
+        "answer-2": "constant",
+
+        "answer-3": "let",
+
+        "answer-4": "var",
+
+        "right-anwser": "true"
+
+      }
+
+    ]
+
+}
