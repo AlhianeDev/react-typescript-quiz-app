@@ -19,7 +19,7 @@
 
 ![alt text](https://github.com/AlhianeDev/react-typescript-quiz-app/blob/main/images/banner.png)
 
-- View the local installation in the [CONTRUBUTING.md.]()
+- View the local installation in the [CONTRUBUTING.md.](https://github.com/AlhianeDev/react-typescript-quiz-app/blob/main/CONTRUBUTING.md)
 
 ***
 
