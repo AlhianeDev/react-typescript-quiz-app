@@ -1,47 +1,78 @@
-# Getting Started with Create React App
+# Hi Azul, As-salamu alaykum
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## TypeScript ?
 
-## Available Scripts
+### - According to the docs, TypeScript is a 'strongly typed programming language' that <br><br> builds on JavaScript, giving you better tooling at any scale.
 
-In the project directory, you can run:
+### - You can say that TypeScript is a JavaScript with types.
 
-### `npm start`
+### - For more details: [typescriptlang](https://www.typescriptlang.org/docs/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+***
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### All right, This is a simple react + typescript quiz app to practice typescript with react ?
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Quiz App
 
-### `npm run build`
+## A simple React + Typescript App
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![alt text](https://github.com/AlhianeDev/react-typescript-quiz-app/blob/main/images/banner.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- View the local installation in the [CONTRUBUTING.md.]()
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+***
 
-### `npm run eject`
+#### Features:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- User-friendly.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Json Server For Storage Supported.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Responsive, on all devices.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- And more ....
 
-## Learn More
+***
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### Features to be added:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-"# react-typescript-quiz-app" 
+- Register and Login Supported.
+
+- Timer (60s for every question for example).
+
+- Themes: Users can choose among different themes
+
+- And more ...
+
+***
+
+#### References:
+
+- React Docs: [react-dev](https://react.dev/)
+
+- TypeScript Docs: [typescriptlang](https://www.typescriptlang.org/docs/)
+
+- Json Server: [Dummy Data Base](https://www.npmjs.com/package/json-server)
+
+* Color Palettes: [Color Palettes](https://colorhunt.co/)
+
+#### WEBSITE DEMO:
+
+![alt text](https://github.com/AlhianeDev/react-typescript-quiz-app/blob/main/images/images-1.png)
+
+![alt text](https://github.com/AlhianeDev/react-typescript-quiz-app/blob/main/images/images-2.png)
+
+![alt text](https://github.com/AlhianeDev/react-typescript-quiz-app/blob/main/images/images-3.png)
+
+![alt text](https://github.com/AlhianeDev/react-typescript-quiz-app/blob/main/images/images-4.png)
+
+![alt text](https://github.com/AlhianeDev/react-typescript-quiz-app/blob/main/images/images-5.png)
+
+***
+
+#### Author:
+
+*   Alhiane Lahcen (Gmail: Lahcen Alhiane): [alhiane.linkedin@gmail.com](mailto:alhiane.linkedin@gmail.com)
+
+*   Alhiane Lahcen (LinkedIn: Lahcen Alhiane): [LinkedIn](https://www.linkedin.com/in/lahcen-alhiane-99564b2a6/)
